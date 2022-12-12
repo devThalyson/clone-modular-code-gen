@@ -4,7 +4,7 @@ version: 3.0.4
 homepage: https://github.com/Flutterando/modular
 
 environment:
-  sdk: ">=2.18.4 <3.0.0"
+  sdk: ">=2.13.0 <3.0.0"
 
 dependencies:
   flutter_modular_annotations: ^0.0.2
